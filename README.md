@@ -1,4 +1,4 @@
-# Aproximacion con el metodo de MonteCarlo del numero Pi
+# Obtención de una aproximación al número pimediante expresiones lambda.
 
 Este programa en Java implementa un método iterativo que permite obtener una aproximación al número Pi mediante el método de Montecarlo. 
 
